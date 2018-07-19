@@ -1,0 +1,38 @@
+h1 {
+	font-size: 40px;
+	color:#00FF00;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+h2 {
+	font-size: 40px;
+	color:#00FF00;
+    text-decoration: underline;
+    padding: 10px;
+}
+ul {
+	font-size: 20px;
+	color: #333;
+
+}
+
+body {
+	background-color: #eedd82;
+	text-align: center;
+}  
+
+div {
+	background-color: #bbb;
+	padding: 30px; 
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+a{
+		font-size: 20px;
+	color: #333;
+
+}
